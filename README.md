@@ -4,7 +4,7 @@ This repository was created based on MartinStokroos' RoFish_cpg project reposito
 
 
 
-![CPG swimming gait](figures/hexapod.gif  "Animation")
+![CPG walking gait](figures/robot_spider.gif  "Animation")
 
 Any modification and contribution on my part will be, same as the original work, under MIT License.
 
